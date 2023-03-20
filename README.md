@@ -1,11 +1,12 @@
-### Hi 👋, I'm Claudiney Queiroz
+# Hi 👋, I'm Claudiney Queiroz
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudineyqr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudineyqr&layout=compact&langs_count=6&theme=dracula"/>
-</div>
+I'm a software developer
 
-### Languages and Tools:
+# Analytics ⚙️
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/claudineyqr?cardType=level&theme=dracula&preferLogin=false)](https://git.io/awesome-stats-card)
+
+# Languages and Tools 🛠
 
 <div> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
@@ -37,10 +38,13 @@
 
 </div>
 
-### Connect with me:
+# Connect with me 🤝
 
 <div>
 <a href="https://www.linkedin.com/in/claudineyqr/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/claudineyqr">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/claudineyqr" alt="GitHub badge" />
+  </a>
 </div>
 
 <!--
